@@ -1,3 +1,2 @@
-const sqrt = require('sqrt');
-
-console.log(sqrt(4)); // 2
+const sqrt = require('@technicalplayerz/sqrt');
+console.log(sqrt(4)); // should print 2
