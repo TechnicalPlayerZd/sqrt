@@ -1,0 +1,20 @@
+{
+  "name": "sqrt",
+  "version": "1.0.0",
+  "description": " Square roots inputed values (It's my first contribution lol)",
+  "keywords": [
+    "Square",
+    "Root"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/TechnicalPlayerZd/sqrt)"
+  },
+  "license": "ISC",
+  "author": "TechnicalPlayerZ",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
